@@ -1,0 +1,15 @@
+{
+    "name": "org.nuget.r3",
+    "version": "1.2.8",
+    "displayName": "R3",
+    "description": "The evolution of dotnet/reactive and UniRx.",
+    "unity": "2018.3",
+    "keywords": [
+        "rx"
+    ],
+    "author": {
+        "name": "Cysharp",
+        "email": "",
+        "url": "https://github.com/Cysharp/R3"
+    }
+}

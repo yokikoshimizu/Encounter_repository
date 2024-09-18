@@ -1,0 +1,40 @@
+{
+    "managedList": [
+        {
+            "packageName": "R3",
+            "fileNames": [
+                "R3"
+            ]
+        },
+        {
+            "packageName": "Microsoft.Bcl.TimeProvider",
+            "fileNames": [
+                "Microsoft.Bcl.TimeProvider"
+            ]
+        },
+        {
+            "packageName": "System.ComponentModel.Annotations",
+            "fileNames": [
+                "System.ComponentModel.Annotations"
+            ]
+        },
+        {
+            "packageName": "System.Runtime.CompilerServices.Unsafe",
+            "fileNames": [
+                "System.Runtime.CompilerServices.Unsafe"
+            ]
+        },
+        {
+            "packageName": "System.Threading.Channels",
+            "fileNames": [
+                "System.Threading.Channels"
+            ]
+        },
+        {
+            "packageName": "Microsoft.Bcl.AsyncInterfaces",
+            "fileNames": [
+                "Microsoft.Bcl.AsyncInterfaces"
+            ]
+        }
+    ]
+}
