@@ -1,5 +1,8 @@
 using UnityEngine;
 
+/// <summary>
+/// シングルトン, Unityの公式の奴そのままだった気がする
+/// </summary>
 namespace Encounter
 {
     public class Singleton<T> : MonoBehaviour
