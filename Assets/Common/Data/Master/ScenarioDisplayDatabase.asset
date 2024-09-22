@@ -9,15 +9,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 786283718ceba1b498e553c3abe0fac0, type: 3}
-  m_Name: Sample
+  m_Script: {fileID: 11500000, guid: dccd5f37d26614ae481fb3b11908e754, type: 3}
+  m_Name: ScenarioDisplayDatabase
   m_EditorClassIdentifier: 
-  Sheet1:
+  DisplayList:
   - Id: 1
-    Name: a
+    Label: a
+    DisplayJP: a
+    DisplayEN: a
   - Id: 2
-    Name: b
+    Label: a
+    DisplayJP: b
+    DisplayEN: a
   - Id: 3
-    Name: c
+    Label: a
+    DisplayJP: c
+    DisplayEN: a
   - Id: 4
-    Name: d
+    Label: a
+    DisplayJP: d
+    DisplayEN: a
